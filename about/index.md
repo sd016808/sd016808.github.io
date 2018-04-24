@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the James Peng
+title: About the Harris Dai
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2016-03-31
+modified: 2018-04-24
 ---
 
 這裡是寫程式時的備忘筆記、通常都是Google到的解決方案，或是順便紀錄曾經遇到的問題。
