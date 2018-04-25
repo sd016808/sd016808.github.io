@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'DevExpress 的 GridView 擋右鍵選單'
-author: 'James Peng'
-tags: ['DevExpress']
+title: 'Test Commit'
+author: 'Harris'
+tags: ['Test']
 ---
 
-![](https://i.imgur.com/hytwJJK.png)
+![](http://www.aspphp.online/bianchen/UploadFiles_4619/201701/2017011818474575.png)
 
 i would like to disable the menu display on right click on column of grid control.
 
