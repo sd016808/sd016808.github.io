@@ -37,17 +37,5 @@ Step 8. 找到想要修改的程式碼後，記下對應的Address，如下圖�
 
 Step 9. 打開IDA Pro並載入APK，此時要等待一段很長的時間，等待IDA解析完成，建議暫時關掉左方的Function Window會加快解析的速度，解析完成後點選工具列的Windows，Reset desktop可以把Function Windows顯示回來
 
-Steop 10. 
-
-
-![](http://www.aspphp.online/bianchen/UploadFiles_4619/201701/2017011818474575.png)
-
-i would like to disable the menu display on right click on column of grid control.
-
-Here is some sample code:
-
-~~~csharp
-DataExchangeGridView.OptionsMenu.EnableColumnMenu = false;
-~~~
-
+Steop 10. 待續
 
